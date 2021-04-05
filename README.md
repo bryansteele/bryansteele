@@ -1,6 +1,8 @@
 ![bryan steele header](https://raw.githubusercontent.com/bryansteele/bryansteele/main/pics/header.png)
 
+<p align='center'>
 ### 🚀 A purpetual student of programming 🚀
+</p>
  <!-- [Launch School](https://launchschool.com/)... An online school for software engineering.&nbsp;&nbsp; -->
 
 <p align='center'>
